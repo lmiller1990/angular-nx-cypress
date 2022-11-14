@@ -4,6 +4,7 @@
     "outDir": "../dist/out-tsc/tools",
     "rootDir": ".",
     "module": "commonjs",
+    "experimentalDecorators": true,
     "target": "es5",
     "types": ["node"],
     "importHelpers": false
